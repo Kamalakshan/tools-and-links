@@ -22,7 +22,7 @@ A collection of tools, links, and documentation I use frequently.
 
 ### 🧪 Video Downloaders
 
-[Cobalt](https://cobalt.tools/)
+- [Cobalt](https://cobalt.tools/)
 
 ---
 
